@@ -8,11 +8,11 @@ This repository contains several sub-projects, each exploring different aspects 
 
 ### Included Projects
 
-1.  **[Machine Learning Classification](file:///home/ahmad/Documents/Projects/Machine%20Learning/ML_Classifiation-main/README.md)**: Implementations of KNN, K-Means, Decision Trees, and Logistic Regression.
-2.  **[Credit Card Fraud Detection](file:///home/ahmad/Documents/Projects/Machine%20Learning/ML_CreditCard_FruadDetection-main/README.md)**: Binary classification to identify fraudulent transactions using accelerated training with Snap ML.
-3.  **[Machine Learning Regression](file:///home/ahmad/Documents/Projects/Machine%20Learning/ML_Regression-main/README.md)**: Predicting CO2 emissions using Linear and Multiple Regression.
-4.  **[Taxi Tip Prediction](file:///home/ahmad/Documents/Projects/Machine%20Learning/Taxi-Tip-Prediction-main/README.md)**: A regression task using DecisionTreeRegressor to predict taxi tips from large-scale trip data.
-5.  **[Multimodal Meme Sentiment Analysis](file:///home/ahmad/Documents/Projects/Machine%20Learning/Multimodal_Meme_Sentiment_Analysis/README.md)**: A multimodal sentiment classifier for Internet memes using text and image ensembling with a Flask web interface.
+1.  **[Machine Learning Classification](/ML_Classifiation-main/README.md)**: Implementations of KNN, K-Means, Decision Trees, and Logistic Regression.
+2.  **[Credit Card Fraud Detection](/ML_CreditCard_FruadDetection-main/README.md)**: Binary classification to identify fraudulent transactions using accelerated training with Snap ML.
+3.  **[Machine Learning Regression](/ML_Regression-main/README.md)**: Predicting CO2 emissions using Linear and Multiple Regression.
+4.  **[Taxi Tip Prediction](/Taxi-Tip-Prediction-main/README.md)**: A regression task using DecisionTreeRegressor to predict taxi tips from large-scale trip data.
+5.  **[Multimodal Meme Sentiment Analysis](/Multimodal_Meme_Sentiment_Analysis/README.md)**: A multimodal sentiment classifier for Internet memes using text and image ensembling with a Flask web interface.
 
 ## Technologies Used
 
